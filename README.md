@@ -1,4 +1,4 @@
-frusciante.github.com
+frusciante.github.io
 =====================
 
 my home
