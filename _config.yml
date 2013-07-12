@@ -24,7 +24,7 @@ meta:
     author:
         name: Went
         email: wenweikun@gmail.com
-        disqus: frusciante              # Disqus缩略标识
+        disqus: wenweikun              # Disqus缩略标识
         gcse: 000842308497849868873:bd8abselsyu     # Google自定义搜索标识ID
         github: frusciante                 # GitHub账号
         gravatar: e64fbdefc9c5622f7a991adc14c8c08b  # Gravatar头像标识
