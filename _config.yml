@@ -11,20 +11,20 @@ desc: 一只猿
 
 custom:
     category:
-        default: Default Category
-        another: Another Category
+        e: E系统流水记
+        r: R系统流水记
     categories:
-      - name:  default
-        title: Default Category
+      - name:  e
+        title: E系统流水记
 
-      - name:  another
-        title: Another Category
+      - name:  r
+        title: R系统流水记
 
 meta:
     author:
         name: Went
         email: wenweikun@gmail.com
-        disqus: wenweikun              # Disqus缩略标识
+        disqus: nep7une              # Disqus缩略标识
         gcse: 000842308497849868873:bd8abselsyu     # Google自定义搜索标识ID
         github: frusciante                 # GitHub账号
         gravatar: e64fbdefc9c5622f7a991adc14c8c08b  # Gravatar头像标识
